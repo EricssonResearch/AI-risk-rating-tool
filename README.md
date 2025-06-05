@@ -8,3 +8,4 @@ Inspired by the **OWASP risk rating methodology**, we propose risk rating metric
 Risk assessment is a critical part of AI governance, helping stakeholders understand the importance and potential impact of threats targeting AI systems. This project focuses on the risk rating step within the broader AI risk assessment process, offering a methodology, metrics, and practical guidance for evaluating impact and likelihood to determine overall risk levels.
 
 
+
