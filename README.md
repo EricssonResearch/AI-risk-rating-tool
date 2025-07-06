@@ -7,5 +7,7 @@ To ensure that AI components operate securely and responsibly, it is essential t
 Inspired by the **OWASP risk rating methodology**, we propose risk rating metrics and evaluation tool, **AI-RRT**.  
 Risk assessment is a critical part of AI governance, helping stakeholders understand the importance and potential impact of threats targeting AI systems. This project focuses on the risk rating step within the broader AI risk assessment process, offering a methodology, metrics, and practical guidance for evaluating impact and likelihood to determine overall risk levels. 
 
+Note that this study is under review, tool will be uploaded based on the the review progress. 
+
 
 
